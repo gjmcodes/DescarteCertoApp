@@ -22,6 +22,7 @@ namespace DescarteCerto.Views
                 new Position(0, 0), Distance.FromMiles(0)));
 
             MyMap.Pins.Add(pin);
+
         }
     }
 }

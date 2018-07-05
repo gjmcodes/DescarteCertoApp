@@ -9,6 +9,6 @@
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 	<application android:label="DescarteCerto.Android" android:icon="@mipmap/ic_launcher">
-		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyB3t2v1645gAplkiy5AnaphpfrVwJdAd7A" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="" />
 	</application>
 </manifest>
